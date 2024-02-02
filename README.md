@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+![toucan](https://github.com/nasicha/nasicha/assets/35105136/7da004e9-f567-435e-b554-8d0b50ce3178)
 
 <!--
 **nasicha/nasicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
