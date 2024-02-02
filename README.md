@@ -1,5 +1,5 @@
-### Hello there 👋
-<img src="https://private-user-images.githubusercontent.com/35105136/301802765-7da004e9-f567-435e-b554-8d0b50ce3178.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY4Njc5MDcsIm5iZiI6MTcwNjg2NzYwNywicGF0aCI6Ii8zNTEwNTEzNi8zMDE4MDI3NjUtN2RhMDA0ZTktZjU2Ny00MzVlLWI1NTQtOGQwYjUwY2UzMTc4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjAyVDA5NTMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyNDk2ZDc2ZWFmZTA5YjY2Mzk5MzUxNDU5OWIxNzdkNGI5MTBjNzU0OGRjM2E4NDQwZDRhMzQ0NDQ4OTE4NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CITmTXCW2TDLxrVwUOAq4fDROsWKl7FlRC2SavkQve8" width="120" height="120">
+<img src="https://github.com/nasicha/nasicha/assets/35105136/873f6784-197d-46c8-a2bb-31f6e1db77b8" width="20%" height="20%">
+
 <!--
 **nasicha/nasicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
